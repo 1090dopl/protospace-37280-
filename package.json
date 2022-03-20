@@ -1,5 +1,5 @@
 {
-  "name": "protospace_37280",
+  "name": "protospace-37280",
   "private": true,
   "dependencies": {
     "@rails/actioncable": "^6.0.0-alpha",
